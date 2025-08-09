@@ -1,0 +1,68 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background: url('<img src="https://media.istockphoto.com/id/1293976473/video/digital-data-financial-investment-trends-financial-business-diagram-with-charts-and-stock.jpg?s=640x640&amp;k=20&amp;c=WFdJJxEbYiMrljsHR_UQkHtNo13r3RkoPS8Us26ncoE=" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 768px; height: 100px; margin: 0px; width: 178px;" alt="610+ Portfolio Background Stock Videos and Royalty-Free Footage - iStock |  Portfolio templates, Glass office blur" jsname="kn3ccd">') no-repeat center center fixed;
+    background-size: cover;
+    color: #333;
+}
+
+
+header {
+  background-color: #4a90e2;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+nav ul li {
+  margin: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+section h2 {
+  color: #4a90e2;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+button#scrollTopBtn {
+  margin-top: 10px;
+  padding: 10px 15px;
+  border: none;
+  background-color: #4a90e2;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button#scrollTopBtn:hover {
+  background-color: #357ab8;
+}
